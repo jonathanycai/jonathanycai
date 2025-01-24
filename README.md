@@ -1,7 +1,4 @@
-## Hi there 👋
-## Testing
-## CARLO IS A BALLER
-## test
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanycai&hide_progress=true)
 <!--
 **jonathanycai/jonathanycai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
