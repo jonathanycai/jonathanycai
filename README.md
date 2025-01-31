@@ -8,10 +8,13 @@ I'm a second-year **Computer Science & Statistics** student at **UBC** with a pa
 - 📱 **iOS Development** – Learning Swift and building my first iOS app.  
 
 ## 💡 Skills & Experience
-- **Languages:** JavaScript, TypeScript, Python, Java, Swift  
-- **Frameworks & Tools:** React, Node.js, Express, SQL, Jest, Chakra UI  
-- **Database Experience:** PostgreSQL, OracleDB, MySQL  
-- **Testing & Development:** Unit Testing, API Development, GitHub Actions  
+- **Languages:** Java, JavaScript, C/C++, HTML/CSS, Python, R, SQL, TypeScript, Swift, Redux, Perl
+- **Frameworks & Tools:** React.js, Next.js, Express.js, Node.js, Chakra UI, SwiftUI, Tailwind CSS, Jest
+- **Database Experience:** Oracle SQL
+
+## 📜 Certifications
+- 🏆 **[Front-End Engineer Career Path](https://www.codecademy.com/profiles/jonathanycai/certificates/604255fe3d6454000dce1f3e)**
+- 💻 **[Build iOS Apps with SwiftUI](https://www.codecademy.com/profiles/jonathanycai/certificates/604255fe3d6454000dce1f3e)**  
 
 ## 🎯 Looking For
 I'm actively looking for **internships** or **co-op opportunities** in **software development**. If you're hiring or just want to chat, feel free to connect!
