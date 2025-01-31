@@ -17,7 +17,7 @@ I'm a second-year **Computer Science & Statistics** student at **UBC** with a pa
 I'm actively looking for **internships** or **co-op opportunities** in **software development**. If you're hiring or just want to chat, feel free to connect!
 
 📫 **Reach Me At**  
-- [LinkedIn](https://www.linkedin.com/in/jonathancai)  
-- [Email](mailto:your-email@example.com)  
+- [LinkedIn](https://www.linkedin.com/in/jonathan-cai-843873314/)  
+- [Email](mailto:jonathan.y.cai@outlook.com)  
 
 Let's build something great together! 🚀
