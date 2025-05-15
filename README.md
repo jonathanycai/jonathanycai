@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan Cai 👋
 
-I'm a second-year **Computer Science & Statistics** student at **UBC** with a passion for building software that makes a difference. I enjoy working across the **full stack**, from backend APIs to frontend interfaces, and I'm currently exploring **iOS development**.
+I'm a third-year **Computer Science & Statistics** student at **UBC** with a passion for building software that makes a difference. I enjoy working across the **full stack**, from backend APIs to frontend interfaces, and I'm currently exploring **iOS development**.
 
 ## 🚀 What I'm Working On
 - 🏃‍♂️ **Stride** – A mobile app to help runners maintain their pace with dynamically generated music playlists.  
@@ -8,7 +8,7 @@ I'm a second-year **Computer Science & Statistics** student at **UBC** with a pa
 - 📱 **iOS Development** – Learning Swift and building my first iOS app.  
 
 ## 💡 Skills & Experience
-- **Languages:** Java, JavaScript, C/C++, HTML/CSS, Python, R, SQL, TypeScript, Swift, Redux, Perl
+- **Languages:** Java, JavaScript, C/C++, HTML/CSS, Python, R, SQL, TypeScript, Swift, Redux
 - **Frameworks & Tools:** React.js, Next.js, Express.js, Node.js, Chakra UI, SwiftUI, Tailwind CSS, Jest
 - **Database Experience:** Oracle SQL
 
