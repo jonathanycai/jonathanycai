@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Hi, I'm Jonathan Cai 👋
+
+## 💫 About Me:
 Hi, I’m Jonathan a third-year Computer Science and Statistics student at UBC who loves building tools that connect people and make collaboration easier. I’m currently working on Commit, a developer project-matching platform that helps people quickly find teammates and form project groups through a simple swiping and matching system. I enjoy working on impactful products, learning new technologies, and contributing to communities that help students grow.
 
 
