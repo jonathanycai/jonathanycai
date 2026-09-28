@@ -1,4 +1,4 @@
-## Hi, I'm Jonathan Cai 👋
+hi i'm jonathan cai
 
 incoming @ tesla (fleetnet)
 
