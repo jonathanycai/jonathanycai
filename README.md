@@ -1,8 +1,5 @@
 ## hi, i'm jonathan cai
 
-`> whoami`  
-jonathan cai
-
 `> status`  
 incoming @ tesla / fleetnet  
 organizing hackathons @ [nwplus](https://www.nwplus.io/)  
