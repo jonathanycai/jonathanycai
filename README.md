@@ -1,9 +1,16 @@
-hi i'm jonathan cai
+## hi, i'm jonathan cai
 
-incoming @ tesla (fleetnet)
+`> whoami`  
+jonathan cai
 
-prev @ aws (s26) where i worked on a dns propagation service (route 53)
+`> status`  
+incoming @ tesla / fleetnet  
+organizing hackathons @ [nwplus](https://www.nwplus.io/)  
+prev @ aws (s26), sap (f25)
 
-prev @ sap (f25) where i worked on a data wrangling microservice for bi dashboards
+`> education`  
+cs + stats @ ubc  
+grad. dec 2028
 
-studying cs + stats @ ubc (grad. dec 2028)
+`> links`  
+[linkedin](https://www.linkedin.com/in/jonathanycai/)
